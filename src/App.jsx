@@ -29,8 +29,8 @@ const App = () => {
           <Card image = {Valorant} title = "VALORANT" link = "https://playvalorant.com/en-us/"/>
           <Card image = {CS2} title = "CS2" link = "https://www.counter-strike.net/news"/>
           <Card image = {Fortnite} title = "FORTNITE" link = "https://www.fortnite.com/?lang=en-US"/>
-          <Card image = {Minecraft} title = "MINECRAFT" link = "https://playvalorant.com/en-us/"/>
-          <Card image = {AmongUs} title = "AMOUNG US" link = "https://www.minecraft.net/en-us"/>
+          <Card image = {Minecraft} title = "MINECRAFT" link = "https://www.minecraft.net/en-us"/>
+          <Card image = {AmongUs} title = "AMOUNG US" link = "https://www.innersloth.com/games/among-us/"/>
           <Card image = {MarvelRivals} title = "MARVEL RIVALS" link = "https://www.marvelrivals.com/"/>
           <Card image = {Overwatch2} title = "OVERWATCH 2" link = "https://overwatch.blizzard.com/en-us/"/>
           <Card image = {LOL} title = "LEAGUE OF LEGENDS" link = "https://www.leagueoflegends.com/en-us/"/>
