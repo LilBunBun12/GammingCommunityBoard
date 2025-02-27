@@ -28,10 +28,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='GammingCommunityBoard.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,11 +39,15 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Details I like to point out:
+1. The card image grows and lights up when you hover over them and the text are overlayed the images
+2. The Gaming Hub test have a moving gradient on it giving it a nice effect
+
+The hardest parts of this project was all the start up since I'm pretty unfamiliar with react. The rest from there was just a refresher on my HTML, CSS, and Javascript skills. I tried to add a loading animation but I had too much struggle with that so I decided to scrap it.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Leon Fong]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
